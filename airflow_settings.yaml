@@ -1,0 +1,6 @@
+# Local-only Airflow connections/variables for `astro dev start`.
+# This pipeline needs none: the source file is public and DuckDB is a local file.
+airflow:
+  connections: []
+  pools: []
+  variables: []

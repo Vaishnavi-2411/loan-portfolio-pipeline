@@ -1,0 +1,8 @@
+grade_code,grade_rank,risk_band,matured_loans,amount_lent,avg_borrower_rate,default_rate,net_loss_rate,net_return_on_principal,return_rank,risk_rank
+AA,1,Prime,1178,7867219.00,0.0785,0.0382,0.0308,0.0664,7,7
+A,2,Prime,1767,9817544.00,0.0991,0.0798,0.0416,0.0803,6,6
+B,3,Near-prime,1067,7159153.00,0.1383,0.0975,0.0564,0.1025,5,5
+C,4,Near-prime,1320,5883723.00,0.1935,0.1318,0.086,0.1269,4,4
+D,5,Subprime,2362,9912965.00,0.2567,0.2041,0.1341,0.163,3,3
+E,6,Subprime,1289,4661470.00,0.3044,0.2265,0.1608,0.1682,2,2
+HR,7,High risk,1150,3518921.00,0.3241,0.2539,0.1792,0.2121,1,1

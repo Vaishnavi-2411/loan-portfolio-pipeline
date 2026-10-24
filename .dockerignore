@@ -1,0 +1,7 @@
+.astro
+.git
+.env
+airflow_settings.yaml
+include/data/raw/*.csv
+include/warehouse/*.duckdb
+analysis/.ipynb_checkpoints

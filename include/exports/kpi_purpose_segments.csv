@@ -1,0 +1,22 @@
+purpose_name,purpose_group,loans,amount_originated,share_of_amount,avg_borrower_rate,matured_loans,default_rate_matured,amount_rank
+Debt Consolidation,Debt,57623,569808171.00,0.6061,0.1885,9783,0.2468,1
+Not Available,Other,16961,106089121.00,0.1128,0.1816,16943,0.3951,2
+Business,Business,7157,63826191.00,0.0679,0.2006,2892,0.3033,3
+Other,Other,10448,61659125.00,0.0656,0.2136,3696,0.1953,4
+Home Improvement,Home,7388,59638666.00,0.0634,0.1984,1599,0.2226,5
+Auto,Vehicle,2568,12823165.00,0.0136,0.207,915,0.1694,6
+Personal Loan,Personal,2395,10913226.00,0.0116,0.1806,2395,0.3236,7
+Household Expenses,Personal,1987,10479376.00,0.0111,0.2239,74,0.0676,8
+Medical/Dental,Medical,1507,9782536.00,0.0104,0.2094,32,0.0938,9
+Large Purchases,Personal,863,7562187.00,0.008,0.1912,15,0.0,10
+Wedding Loans,Personal,762,6721845.00,0.0072,0.2065,14,0.0714,11
+Taxes,Debt,882,6659677.00,0.0071,0.2067,27,0.0,12
+Vacation,Personal,764,4096710.00,0.0044,0.2075,32,0.0,13
+Student Use,Education,756,2657014.00,0.0028,0.2052,756,0.2579,14
+Baby & Adoption,Personal,196,1917028.00,0.002,0.1862,4,0.0,15
+Motorcycle,Vehicle,304,1690486.00,0.0018,0.1976,7,0.0,16
+Engagement Ring,Personal,214,1616617.00,0.0017,0.196,11,0.0,17
+Boat,Vehicle,85,742400.00,0.0008,0.174,4,0.0,18
+Cosmetic Procedure,Medical,91,517200.00,0.0006,0.2259,9,0.1111,19
+Green Loans,Home,58,483938.00,0.0005,0.2021,3,0.0,20
+RV,Vehicle,52,423736.00,0.0005,0.2073,1,0.0,21

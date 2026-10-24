@@ -1,0 +1,2 @@
+# Python packages installed into the Airflow image (pandas already ships with Airflow).
+duckdb==1.4.5

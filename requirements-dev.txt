@@ -1,0 +1,5 @@
+# For running run_local.py and the analysis notebook on your laptop (outside Airflow).
+duckdb==1.4.5
+pandas
+matplotlib
+jupyter

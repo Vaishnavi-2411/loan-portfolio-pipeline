@@ -1,0 +1,22 @@
+purpose_id,purpose_name,purpose_group
+0,Not Available,Other
+1,Debt Consolidation,Debt
+2,Home Improvement,Home
+3,Business,Business
+4,Personal Loan,Personal
+5,Student Use,Education
+6,Auto,Vehicle
+7,Other,Other
+8,Baby & Adoption,Personal
+9,Boat,Vehicle
+10,Cosmetic Procedure,Medical
+11,Engagement Ring,Personal
+12,Green Loans,Home
+13,Household Expenses,Personal
+14,Large Purchases,Personal
+15,Medical/Dental,Medical
+16,Motorcycle,Vehicle
+17,RV,Vehicle
+18,Taxes,Debt
+19,Vacation,Personal
+20,Wedding Loans,Personal
